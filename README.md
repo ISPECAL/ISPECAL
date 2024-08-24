@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Who is Ilce Perez? ᓚᘏᗢ</h1>
-<h3 align="center">A International Business major ardent for Cybersecurity</h3>
+**'IB business major shifting into the world of Cybersecurity'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
