@@ -1,6 +1,6 @@
 
 
-preview
+
 <h1 align="center">Hey there! Ilce Perez here!ᓚᘏᗢ</h1>
 <h3 align="center">A International Business major ardent of Cybersecurity</h3>
 
