@@ -1,17 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-20939
-Fork on GitHub
-6470
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
 
 preview
 <h1 align="center">Hey there! Ilce Perez here!ᓚᘏᗢ</h1>
