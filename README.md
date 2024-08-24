@@ -41,11 +41,10 @@ I am currently a **Business Student** with a strong passion for **Cybersecurity*
 - Transition into a cybersecurity role where I can apply my business and technical skills to help organizations strengthen their security posture.
 
 ## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Email](mailto:your.email@example.com)
-- [GitHub](https://github.com/your-github-profile)
+- [LinkedIn](https://www.linkedin.com/in/ilceperezc/)
+- [Email](cperezilce@gmail.com)
+
 
 Thank you for visiting my profile! I'm always open to networking and learning opportunities in both business and cybersecurity.
 ```
 
-This template can be tailored as you gain more experience and projects in cybersecurity.
