@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hey there! Ilce Perez here!ᓚᘏᗢ</h1>
+<h1 align="center">Who is Ilce Perez here? ᓚᘏᗢ</h1>
 <h3 align="center">A International Business major ardent for Cybersecurity</h3>
 
 <h3 align="left">Connect with me:</h3>
