@@ -1,50 +1,32 @@
-## Ilce Perez ᓚᘏᗢ
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20939
+Fork on GitHub
+6470
 
-## About Me
-I am currently a **Business Student** with a strong passion for **Cybersecurity**. My background in business has equipped me with a strategic mindset, analytical skills, and a deep understanding of the corporate world. Now, I am pivoting my career towards the cybersecurity field, where I aim to combine my business acumen with technical expertise to help organizations protect their digital assets and navigate the complex landscape of cyber threats.
+back to edit
 
-## My Journey
-- **Business Studies**: I have gained a solid foundation in business management, finance, and operations. My coursework and internships have provided me with insights into how businesses operate and the importance of risk management.
-- **Cybersecurity Transition**: I am actively learning about cybersecurity through online courses, certifications, and hands-on projects. My goal is to develop a robust understanding of network security, ethical hacking, risk assessment, and data protection.
+copy-markdown
 
-## Skills
-### Business Skills
-- Strategic Planning
-- Financial Analysis
-- Project Management
-- Risk Management
-- Market Research
+download markdown
 
-### Cybersecurity Skills (In Progress)
-- Network Security
-- Ethical Hacking
-- Risk Assessment
-- Security Frameworks (e.g., NIST, ISO 27001)
-- Incident Response
+download backup
 
-## Projects
-### [Project Name]
-- **Description**: Briefly describe your project, its objectives, and the skills you applied.
-- **Key Learnings**: Highlight what you learned during this project, especially any new cybersecurity skills.
+preview
+<h1 align="center">Hey there! Ilce Perez here!ᓚᘏᗢ</h1>
+<h3 align="center">A International Business major ardent of Cybersecurity</h3>
 
-### [Project Name]
-- **Description**: Briefly describe your project, its objectives, and the skills you applied.
-- **Key Learnings**: Highlight what you learned during this project, especially any new cybersecurity skills.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ilceperezc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ilceperezc/" height="30" width="40" /></a>
+</p>
 
-## Certifications & Courses
-- **[Certification Name]** - [Institution Name]
-- **[Course Name]** - [Platform Name]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Goals
-- Continue building my knowledge in cybersecurity, focusing on areas such as cloud security, penetration testing, and digital forensics.
-- Obtain industry-recognized certifications such as CompTIA Security+, CEH (Certified Ethical Hacker), and CISSP.
-- Transition into a cybersecurity role where I can apply my business and technical skills to help organizations strengthen their security posture.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ispecal&show_icons=true&locale=en&layout=compact" alt="ispecal" /></p>
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ilceperezc/)
-- [Email](cperezilce@gmail.com)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ispecal&show_icons=true&locale=en" alt="ispecal" /></p>
 
-
-Thank you for visiting my profile! I'm always open to networking and learning opportunities in both business and cybersecurity.
-```
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ispecal&" alt="ispecal" /></p>
