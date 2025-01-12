@@ -1,9 +1,8 @@
 
 
 
-<h1 align="center">Who is Ilce Perez? ᓚᘏᗢ</h1>
+<h1 align="center"> Ilce Perez ᓚᘏᗢ</h1>
 
-**`IB Major [Shifting Into The Realm Of Cybersecurity(▀̿Ĺ̯▀̿ ̿)]`**
 
 
 <h3 align="left">Languages and Tools:</h3>
